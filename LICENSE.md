@@ -1,4 +1,4 @@
-# 
+# Top Bumblebee extensions. Avec surveillance des modèles et recherche sémantique — optimisé pour des performances et une efficacité maximales.
 
 
 
